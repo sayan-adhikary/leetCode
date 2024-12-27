@@ -1,5 +1,5 @@
 # leetCode
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+A Bunch of LeetCode questions to show up to the recruiter! 
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
