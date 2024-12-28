@@ -9,6 +9,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0001-two-sum](https://github.com/sayan-adhikary/leetCode/tree/master/0001-two-sum) |
 | [0055-jump-game](https://github.com/sayan-adhikary/leetCode/tree/master/0055-jump-game) |
 | [0494-target-sum](https://github.com/sayan-adhikary/leetCode/tree/master/0494-target-sum) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/sayan-adhikary/leetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1063-best-sightseeing-pair](https://github.com/sayan-adhikary/leetCode/tree/master/1063-best-sightseeing-pair) |
 ## Hash Table
 |  |
@@ -29,6 +30,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0055-jump-game](https://github.com/sayan-adhikary/leetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/sayan-adhikary/leetCode/tree/master/0070-climbing-stairs) |
 | [0494-target-sum](https://github.com/sayan-adhikary/leetCode/tree/master/0494-target-sum) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/sayan-adhikary/leetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1063-best-sightseeing-pair](https://github.com/sayan-adhikary/leetCode/tree/master/1063-best-sightseeing-pair) |
 ## Greedy
 |  |
