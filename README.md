@@ -15,6 +15,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sayan-adhikary/leetCode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sayan-adhikary/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/sayan-adhikary/leetCode/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
@@ -43,6 +44,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sayan-adhikary/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/sayan-adhikary/leetCode/tree/master/0013-roman-to-integer) |
 ## Tree
 |  |
@@ -82,4 +84,8 @@ A Bunch of LeetCode questions to show up to the recruiter!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sayan-adhikary/leetCode/tree/master/0002-add-two-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sayan-adhikary/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
