@@ -37,6 +37,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/sayan-adhikary/leetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1063-best-sightseeing-pair](https://github.com/sayan-adhikary/leetCode/tree/master/1063-best-sightseeing-pair) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sayan-adhikary/leetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2562-count-ways-to-build-good-strings](https://github.com/sayan-adhikary/leetCode/tree/master/2562-count-ways-to-build-good-strings) |
 ## Greedy
 |  |
 | ------- |
