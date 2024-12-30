@@ -19,6 +19,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | ------- |
 | [0001-two-sum](https://github.com/sayan-adhikary/leetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sayan-adhikary/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/sayan-adhikary/leetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sayan-adhikary/leetCode/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
@@ -26,6 +27,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0002-add-two-numbers](https://github.com/sayan-adhikary/leetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sayan-adhikary/leetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sayan-adhikary/leetCode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/sayan-adhikary/leetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sayan-adhikary/leetCode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/sayan-adhikary/leetCode/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
@@ -57,6 +59,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0006-zigzag-conversion](https://github.com/sayan-adhikary/leetCode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/sayan-adhikary/leetCode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/sayan-adhikary/leetCode/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/sayan-adhikary/leetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sayan-adhikary/leetCode/tree/master/0013-roman-to-integer) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sayan-adhikary/leetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## Tree
