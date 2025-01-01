@@ -63,6 +63,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0010-regular-expression-matching](https://github.com/sayan-adhikary/leetCode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/sayan-adhikary/leetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sayan-adhikary/leetCode/tree/master/0013-roman-to-integer) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/sayan-adhikary/leetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sayan-adhikary/leetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## Tree
 |  |
@@ -120,4 +121,8 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sayan-adhikary/leetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/sayan-adhikary/leetCode/tree/master/0011-container-with-most-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/sayan-adhikary/leetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
