@@ -31,6 +31,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0012-integer-to-roman](https://github.com/sayan-adhikary/leetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sayan-adhikary/leetCode/tree/master/0013-roman-to-integer) |
 | [0952-word-subsets](https://github.com/sayan-adhikary/leetCode/tree/master/0952-word-subsets) |
+| [1502-construct-k-palindrome-strings](https://github.com/sayan-adhikary/leetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sayan-adhikary/leetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Math
 |  |
@@ -59,6 +60,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | ------- |
 | [0011-container-with-most-water](https://github.com/sayan-adhikary/leetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/sayan-adhikary/leetCode/tree/master/0055-jump-game) |
+| [1502-construct-k-palindrome-strings](https://github.com/sayan-adhikary/leetCode/tree/master/1502-construct-k-palindrome-strings) |
 ## Memoization
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0012-integer-to-roman](https://github.com/sayan-adhikary/leetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sayan-adhikary/leetCode/tree/master/0013-roman-to-integer) |
 | [0952-word-subsets](https://github.com/sayan-adhikary/leetCode/tree/master/0952-word-subsets) |
+| [1502-construct-k-palindrome-strings](https://github.com/sayan-adhikary/leetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/sayan-adhikary/leetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sayan-adhikary/leetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sayan-adhikary/leetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -170,4 +173,8 @@ A Bunch of LeetCode questions to show up to the recruiter!
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sayan-adhikary/leetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Counting
+|  |
+| ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/sayan-adhikary/leetCode/tree/master/1502-construct-k-palindrome-strings) |
 <!---LeetCode Topics End-->
