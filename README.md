@@ -69,6 +69,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0055-jump-game](https://github.com/sayan-adhikary/leetCode/tree/master/0055-jump-game) |
 | [1502-construct-k-palindrome-strings](https://github.com/sayan-adhikary/leetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/sayan-adhikary/leetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/sayan-adhikary/leetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2509-minimize-xor](https://github.com/sayan-adhikary/leetCode/tree/master/2509-minimize-xor) |
 ## Memoization
 |  |
@@ -93,6 +94,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sayan-adhikary/leetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/sayan-adhikary/leetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sayan-adhikary/leetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/sayan-adhikary/leetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2465-shifting-letters-ii](https://github.com/sayan-adhikary/leetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/sayan-adhikary/leetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sayan-adhikary/leetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -205,4 +207,8 @@ A Bunch of LeetCode questions to show up to the recruiter!
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/sayan-adhikary/leetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Enumeration
+|  |
+| ------- |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/sayan-adhikary/leetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 <!---LeetCode Topics End-->
