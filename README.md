@@ -119,6 +119,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sayan-adhikary/leetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0820-find-eventual-safe-states](https://github.com/sayan-adhikary/leetCode/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/sayan-adhikary/leetCode/tree/master/1396-count-servers-that-communicate) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/sayan-adhikary/leetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/sayan-adhikary/leetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Breadth-First Search
 |  |
@@ -136,6 +137,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/sayan-adhikary/leetCode/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sayan-adhikary/leetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/sayan-adhikary/leetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/sayan-adhikary/leetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
 |  |
@@ -258,4 +260,5 @@ A Bunch of LeetCode questions to show up to the recruiter!
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/sayan-adhikary/leetCode/tree/master/0820-find-eventual-safe-states) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/sayan-adhikary/leetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 <!---LeetCode Topics End-->
