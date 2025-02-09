@@ -30,6 +30,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [2145-grid-game](https://github.com/sayan-adhikary/leetCode/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sayan-adhikary/leetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/sayan-adhikary/leetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2448-count-number-of-bad-pairs](https://github.com/sayan-adhikary/leetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/sayan-adhikary/leetCode/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/sayan-adhikary/leetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/sayan-adhikary/leetCode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -56,6 +57,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sayan-adhikary/leetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sayan-adhikary/leetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2434-design-a-number-container-system](https://github.com/sayan-adhikary/leetCode/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/sayan-adhikary/leetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/sayan-adhikary/leetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sayan-adhikary/leetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/sayan-adhikary/leetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -69,6 +71,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0012-integer-to-roman](https://github.com/sayan-adhikary/leetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sayan-adhikary/leetCode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/sayan-adhikary/leetCode/tree/master/0070-climbing-stairs) |
+| [2448-count-number-of-bad-pairs](https://github.com/sayan-adhikary/leetCode/tree/master/2448-count-number-of-bad-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -242,6 +245,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [1396-count-servers-that-communicate](https://github.com/sayan-adhikary/leetCode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/sayan-adhikary/leetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sayan-adhikary/leetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2448-count-number-of-bad-pairs](https://github.com/sayan-adhikary/leetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/sayan-adhikary/leetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
 |  |
