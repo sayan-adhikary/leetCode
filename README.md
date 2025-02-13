@@ -325,4 +325,8 @@ A Bunch of LeetCode questions to show up to the recruiter!
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/sayan-adhikary/leetCode/tree/master/2434-design-a-number-container-system) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/sayan-adhikary/leetCode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
