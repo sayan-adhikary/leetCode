@@ -332,6 +332,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/sayan-adhikary/leetCode/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/sayan-adhikary/leetCode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Data Stream
 |  |
