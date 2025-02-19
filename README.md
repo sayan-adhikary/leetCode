@@ -120,6 +120,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0952-word-subsets](https://github.com/sayan-adhikary/leetCode/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/sayan-adhikary/leetCode/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/sayan-adhikary/leetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sayan-adhikary/leetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/sayan-adhikary/leetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sayan-adhikary/leetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sayan-adhikary/leetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -190,6 +191,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | ------- |
 | [0494-target-sum](https://github.com/sayan-adhikary/leetCode/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/sayan-adhikary/leetCode/tree/master/1160-letter-tile-possibilities) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sayan-adhikary/leetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/sayan-adhikary/leetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/sayan-adhikary/leetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/sayan-adhikary/leetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
