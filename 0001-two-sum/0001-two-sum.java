@@ -1,24 +1,31 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        int length = nums.length;
-        int i = 0, j = length - 1;
+        int n = nums.length;
 
-        int ind[] = new int[2];
-        ind[0] = 2;
-        ind[1] = 2;
-        while (i < length - 1) {
+        // Store value and index
+        int[][] arr = new int[n][2];
+        for (int i = 0; i < n; i++) {
+            arr[i][0] = nums[i];  // value
+            arr[i][1] = i;        // original index
+        }
 
-            if (nums[i] + nums[j] == target) {
-                ind[0] = i;
-                ind[1] = j;
-                return ind;
-            } else
-                --j;
-            if (j == i) {
-                j = length - 1;
-                ++i;
+        // Sort by value
+        Arrays.sort(arr, (a, b) -> Integer.compare(a[0], b[0]));
+
+        // Two-pointer search
+        int left = 0, right = n - 1;
+        while (left < right) {
+            int sum = arr[left][0] + arr[right][0];
+
+            if (sum == target) {
+                return new int[]{arr[left][1], arr[right][1]};
+            } else if (sum < target) {
+                left++;
+            } else {
+                right--;
             }
         }
-        return ind;
+
+        return new int[]{}; // won't reach here (guaranteed one solution)
     }
 }
