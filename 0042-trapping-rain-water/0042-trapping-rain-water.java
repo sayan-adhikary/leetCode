@@ -23,6 +23,6 @@ class Solution {
             //trapped water = waterlevel - height[i]
             trappRainWater += largestBulding - height[i];
          }
-        return trappRainWater;        
+        return trappRainWater;
     }
 }
