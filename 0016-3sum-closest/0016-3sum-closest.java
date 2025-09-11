@@ -1,51 +1,59 @@
 class Solution {
     public int threeSumClosest(int[] nums, int target) {
-        // Count sort to optimize sorting time for constrained input range
-        byte[] count = new byte[2001];  // range [-1000, 1000]
-        for (int num : nums) {
-            count[num + 1000]++;
+         byte[] count = new byte[2001];
+        for (int i = 0; i < nums.length; i++) {
+            count[nums[i]+1000]++;
         }
 
-        // Rebuild sorted nums array
-        int[] sorted = new int[nums.length];
-        int idx = 0;
-        for (int i = 0; i < 2001; i++) {
-            while (count[i]-- > 0) {
-                sorted[idx++] = i - 1000;
+        for(int k=0,i=0; k< count.length;k++){
+            while (count[k] > 0){
+                nums[i] = k - 1000;
+                i++;
+                count[k]--;
             }
         }
 
-        nums = sorted;
-        int n = nums.length;
-        int closest = nums[0] + nums[1] + nums[2]; // Initialize with first triplet
+        int low = 0, high = nums.length-1;
+        while (low+1 < high -1 &&nums[low+1]+nums[high]+nums[high-1]< target){
+            low ++;
+        }
 
-        for (int i = 0; i < n - 2; i++) {
-            if (i > 0 && nums[i] == nums[i - 1]) continue; // skip duplicates
+        while ( high-1> low +1&& nums[low]+nums[low+1]+nums[high-1] > target){
+            high --;
+        }
 
-            int left = i + 1, right = n - 1;
+        int closet = Integer.MAX_VALUE;
+        int closestresult = 0;
+        for(int i = low; i < high-1; i++) {
 
-            while (left < right) {
-                int sum = nums[i] + nums[left] + nums[right];
-
-                // Exact match shortcut
-                if (sum == target) return sum;
-
-                // Update closest if needed
-                if (Math.abs(sum - target) < Math.abs(closest - target)) {
-                    closest = sum;
-                }
-
-                // Move pointers
-                if (sum < target) {
-                    left++;
-                    while (left < right && nums[left] == nums[left - 1]) left++; // skip duplicates
+            int k = i+1;
+            int j = high;
+            while(k < j) {
+                int total = nums[i] + nums[k] + nums[j];
+                if (total > target) {
+                    j--;
+                    while (j>k&&nums[j]==nums[j+1]){
+                        j--;
+                    }
+                } else if (total < target) {
+                    k++;
+                    while (k<j&&nums[k]==nums[k-1]){
+                        k++;
+                    }
                 } else {
-                    right--;
-                    while (left < right && nums[right] == nums[right + 1]) right--; // skip duplicates
+                    return target;
                 }
+
+                int minus = Math.abs(total - target);
+                if (minus < closet) {
+                    closet = minus;
+                    closestresult = total;
+                }
+
             }
+            while (i+1 < high-1&&nums[i] == nums[i+1]) i++;
         }
 
-        return closest;
+        return closestresult;
     }
 }
