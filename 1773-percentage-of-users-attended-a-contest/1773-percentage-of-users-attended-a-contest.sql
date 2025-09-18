@@ -4,5 +4,4 @@ FROM
 GROUP BY 
     r.contest_id
 ORDER BY 
-    percentage DESC, 
-    r.contest_id ASC;
+    percentage DESC, r.contest_id ASC;
