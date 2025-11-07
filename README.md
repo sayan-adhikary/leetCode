@@ -9,6 +9,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0001-two-sum](https://github.com/sayan-adhikary/leetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sayan-adhikary/leetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/sayan-adhikary/leetCode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/sayan-adhikary/leetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/sayan-adhikary/leetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sayan-adhikary/leetCode/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/sayan-adhikary/leetCode/tree/master/0042-trapping-rain-water) |
@@ -140,6 +141,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0010-regular-expression-matching](https://github.com/sayan-adhikary/leetCode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/sayan-adhikary/leetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sayan-adhikary/leetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/sayan-adhikary/leetCode/tree/master/0014-longest-common-prefix) |
 | [0952-word-subsets](https://github.com/sayan-adhikary/leetCode/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/sayan-adhikary/leetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/sayan-adhikary/leetCode/tree/master/1160-letter-tile-possibilities) |
@@ -297,6 +299,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sayan-adhikary/leetCode/tree/master/0014-longest-common-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sayan-adhikary/leetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
