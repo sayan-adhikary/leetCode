@@ -76,6 +76,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [1364-tuple-with-same-product](https://github.com/sayan-adhikary/leetCode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sayan-adhikary/leetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1502-construct-k-palindrome-strings](https://github.com/sayan-adhikary/leetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [1796-second-largest-digit-in-a-string](https://github.com/sayan-adhikary/leetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sayan-adhikary/leetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sayan-adhikary/leetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/sayan-adhikary/leetCode/tree/master/2107-find-unique-binary-string) |
@@ -152,6 +153,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [1524-string-matching-in-an-array](https://github.com/sayan-adhikary/leetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sayan-adhikary/leetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sayan-adhikary/leetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1796-second-largest-digit-in-a-string](https://github.com/sayan-adhikary/leetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sayan-adhikary/leetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sayan-adhikary/leetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sayan-adhikary/leetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
