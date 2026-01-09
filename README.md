@@ -18,6 +18,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0189-rotate-array](https://github.com/sayan-adhikary/leetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/sayan-adhikary/leetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/sayan-adhikary/leetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/sayan-adhikary/leetCode/tree/master/0287-find-the-duplicate-number) |
 | [0407-trapping-rain-water-ii](https://github.com/sayan-adhikary/leetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/sayan-adhikary/leetCode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/sayan-adhikary/leetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -254,6 +255,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sayan-adhikary/leetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0287-find-the-duplicate-number](https://github.com/sayan-adhikary/leetCode/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -270,6 +272,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0088-merge-sorted-array](https://github.com/sayan-adhikary/leetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/sayan-adhikary/leetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sayan-adhikary/leetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/sayan-adhikary/leetCode/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -285,6 +288,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/sayan-adhikary/leetCode/tree/master/0287-find-the-duplicate-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sayan-adhikary/leetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/sayan-adhikary/leetCode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/sayan-adhikary/leetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
