@@ -15,6 +15,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0042-trapping-rain-water](https://github.com/sayan-adhikary/leetCode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/sayan-adhikary/leetCode/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/sayan-adhikary/leetCode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sayan-adhikary/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/sayan-adhikary/leetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/sayan-adhikary/leetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/sayan-adhikary/leetCode/tree/master/0283-move-zeroes) |
@@ -110,6 +111,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0042-trapping-rain-water](https://github.com/sayan-adhikary/leetCode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/sayan-adhikary/leetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/sayan-adhikary/leetCode/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sayan-adhikary/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0494-target-sum](https://github.com/sayan-adhikary/leetCode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/sayan-adhikary/leetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sayan-adhikary/leetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
