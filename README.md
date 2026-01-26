@@ -29,6 +29,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0952-word-subsets](https://github.com/sayan-adhikary/leetCode/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/sayan-adhikary/leetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/sayan-adhikary/leetCode/tree/master/1063-best-sightseeing-pair) |
+| [1200-minimum-absolute-difference](https://github.com/sayan-adhikary/leetCode/tree/master/1200-minimum-absolute-difference) |
 | [1364-tuple-with-same-product](https://github.com/sayan-adhikary/leetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/sayan-adhikary/leetCode/tree/master/1396-count-servers-that-communicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/sayan-adhikary/leetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -344,6 +345,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0016-3sum-closest](https://github.com/sayan-adhikary/leetCode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/sayan-adhikary/leetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/sayan-adhikary/leetCode/tree/master/0217-contains-duplicate) |
+| [1200-minimum-absolute-difference](https://github.com/sayan-adhikary/leetCode/tree/master/1200-minimum-absolute-difference) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sayan-adhikary/leetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sayan-adhikary/leetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sayan-adhikary/leetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
