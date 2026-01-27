@@ -14,6 +14,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0016-3sum-closest](https://github.com/sayan-adhikary/leetCode/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/sayan-adhikary/leetCode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/sayan-adhikary/leetCode/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/sayan-adhikary/leetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/sayan-adhikary/leetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sayan-adhikary/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/sayan-adhikary/leetCode/tree/master/0189-rotate-array) |
@@ -98,6 +99,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0009-palindrome-number](https://github.com/sayan-adhikary/leetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/sayan-adhikary/leetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sayan-adhikary/leetCode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/sayan-adhikary/leetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/sayan-adhikary/leetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sayan-adhikary/leetCode/tree/master/0189-rotate-array) |
 | [1477-product-of-the-last-k-numbers](https://github.com/sayan-adhikary/leetCode/tree/master/1477-product-of-the-last-k-numbers) |
