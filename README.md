@@ -102,6 +102,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0066-plus-one](https://github.com/sayan-adhikary/leetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/sayan-adhikary/leetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sayan-adhikary/leetCode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/sayan-adhikary/leetCode/tree/master/0258-add-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/sayan-adhikary/leetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sayan-adhikary/leetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/sayan-adhikary/leetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -400,6 +401,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/sayan-adhikary/leetCode/tree/master/0258-add-digits) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sayan-adhikary/leetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/sayan-adhikary/leetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/sayan-adhikary/leetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -446,4 +448,8 @@ A Bunch of LeetCode questions to show up to the recruiter!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sayan-adhikary/leetCode/tree/master/0042-trapping-rain-water) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sayan-adhikary/leetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
