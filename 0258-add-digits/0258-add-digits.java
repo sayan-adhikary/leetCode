@@ -1,4 +1,4 @@
-class Solution {
+class Solution {    //Sayan
     public int addDigits(int num) {
         if (num < 9) {
             return num;
