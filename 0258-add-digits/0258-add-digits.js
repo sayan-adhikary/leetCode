@@ -2,7 +2,7 @@
  * @param {number} num
  * @return {number}
  */
-var addDigits = function (num) {
+var addDigits = function (num) {//Sayan
     if (num <= 9) {
         return num;
     } else if (num % 9 === 0) {
