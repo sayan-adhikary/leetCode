@@ -4,6 +4,6 @@ class Solution {
         for (char ch : sentence.toCharArray()) {
             hs.add(ch);
         }
-        return hs.size() == 26 ? true : false;
+        return hs.size() == 26;
     }
 }
