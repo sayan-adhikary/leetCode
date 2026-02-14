@@ -59,6 +59,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/sayan-adhikary/leetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sayan-adhikary/leetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/sayan-adhikary/leetCode/tree/master/2792-neighboring-bitwise-xor) |
+| [2974-minimum-number-game](https://github.com/sayan-adhikary/leetCode/tree/master/2974-minimum-number-game) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sayan-adhikary/leetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sayan-adhikary/leetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/sayan-adhikary/leetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -356,6 +357,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [1200-minimum-absolute-difference](https://github.com/sayan-adhikary/leetCode/tree/master/1200-minimum-absolute-difference) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sayan-adhikary/leetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sayan-adhikary/leetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2974-minimum-number-game](https://github.com/sayan-adhikary/leetCode/tree/master/2974-minimum-number-game) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sayan-adhikary/leetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Brainteaser
 |  |
@@ -372,6 +374,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sayan-adhikary/leetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2434-design-a-number-container-system](https://github.com/sayan-adhikary/leetCode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sayan-adhikary/leetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2974-minimum-number-game](https://github.com/sayan-adhikary/leetCode/tree/master/2974-minimum-number-game) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/sayan-adhikary/leetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Matrix
 |  |
@@ -408,6 +411,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | ------- |
 | [0258-add-digits](https://github.com/sayan-adhikary/leetCode/tree/master/0258-add-digits) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sayan-adhikary/leetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2974-minimum-number-game](https://github.com/sayan-adhikary/leetCode/tree/master/2974-minimum-number-game) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/sayan-adhikary/leetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/sayan-adhikary/leetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/sayan-adhikary/leetCode/tree/master/3447-clear-digits) |
