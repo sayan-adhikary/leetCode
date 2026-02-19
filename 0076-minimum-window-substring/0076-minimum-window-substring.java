@@ -1,53 +1,45 @@
 class Solution {
     public String minWindow(String s, String t) {
-        if (s.length() == 0 || t.length() == 0)
-            return "";
+        int[] mapS = new int[256];
 
-        int[] need = new int[128];
-        int[] window = new int[128];
+        // Count characters in t
+        int[] mapT = new int[256];
 
-        // Build frequency map for t
-        int required = 0;
-        for (char c : t.toCharArray()) {
-            if (need[c] == 0)
-                required++;
-            need[c]++;
-        }
+        for (char ch : t.toCharArray())
+            mapT[ch]++;
 
-        int left = 0, right = 0;
-        int formed = 0;
-        int minLen = Integer.MAX_VALUE;
-        int start = 0;
+        String result = "";
+        int right = 0, min = Integer.MAX_VALUE;
 
-        while (right < s.length()) {            
-            char c = s.charAt(right);
-            window[c]++;                    //updating window
+        // Two pointers of the sliding window: i(left), right
+        for (int i = 0; i < s.length(); i++) {
 
-            if (need[c] > 0 && window[c] == need[c]) {
-                formed++;
+            while (right < s.length() && !isDesirable(mapS, mapT)) {
+                mapS[s.charAt(right)]++;
+
+                // Extend the right pointer of the sliding window
+                right++;
             }
 
-            // Try shrinking
-            while (left <= right && formed == required) {
-
-                if (right - left + 1 < minLen) {
-                    minLen = right - left + 1;
-                    start = left;
-                }
-
-                char leftChar = s.charAt(left);
-                window[leftChar]--;
-
-                if (need[leftChar] > 0 && window[leftChar] < need[leftChar]) {
-                    formed--;
-                }
-
-                left++;
+            if (isDesirable(mapS, mapT) && min > right - i + 1) {
+                result = s.substring(i, right);
+                min = right - i + 1;
             }
 
-            right++;
+            // Shrink the left pointer from i to i + 1
+            mapS[s.charAt(i)]--;
         }
 
-        return minLen == Integer.MAX_VALUE ? "" : s.substring(start, start + minLen);
+        return result;
+    }
+
+    // Runtime = O(256) = O(1)
+    private boolean isDesirable(int[] mapS, int[] mapT) {
+        // s should cover all characters in t
+        for (int i = 0; i < mapT.length; i++) {
+            if (mapT[i] > mapS[i])
+                return false;
+        }
+        return true;
     }
 }
