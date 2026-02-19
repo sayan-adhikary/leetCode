@@ -19,9 +19,9 @@ class Solution {
         int minLen = Integer.MAX_VALUE;
         int start = 0;
 
-        while (right < s.length()) {
+        while (right < s.length()) {            
             char c = s.charAt(right);
-            window[c]++;
+            window[c]++;                    //updating window
 
             if (need[c] > 0 && window[c] == need[c]) {
                 formed++;
