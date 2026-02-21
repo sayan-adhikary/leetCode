@@ -19,6 +19,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0088-merge-sorted-array](https://github.com/sayan-adhikary/leetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sayan-adhikary/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/sayan-adhikary/leetCode/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/sayan-adhikary/leetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/sayan-adhikary/leetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/sayan-adhikary/leetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sayan-adhikary/leetCode/tree/master/0287-find-the-duplicate-number) |
@@ -272,11 +273,13 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sayan-adhikary/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/sayan-adhikary/leetCode/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/sayan-adhikary/leetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sayan-adhikary/leetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sayan-adhikary/leetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0209-minimum-size-subarray-sum](https://github.com/sayan-adhikary/leetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/sayan-adhikary/leetCode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/sayan-adhikary/leetCode/tree/master/0704-binary-search) |
 ## Divide and Conquer
@@ -300,6 +303,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sayan-adhikary/leetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1477-product-of-the-last-k-numbers](https://github.com/sayan-adhikary/leetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sayan-adhikary/leetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sayan-adhikary/leetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
