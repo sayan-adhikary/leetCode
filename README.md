@@ -49,6 +49,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [1927-maximum-ascending-subarray-sum](https://github.com/sayan-adhikary/leetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sayan-adhikary/leetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2107-find-unique-binary-string](https://github.com/sayan-adhikary/leetCode/tree/master/2107-find-unique-binary-string) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/sayan-adhikary/leetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sayan-adhikary/leetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2145-grid-game](https://github.com/sayan-adhikary/leetCode/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sayan-adhikary/leetCode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -177,6 +178,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sayan-adhikary/leetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sayan-adhikary/leetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/sayan-adhikary/leetCode/tree/master/2107-find-unique-binary-string) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/sayan-adhikary/leetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sayan-adhikary/leetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/sayan-adhikary/leetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sayan-adhikary/leetCode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -300,6 +302,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0189-rotate-array](https://github.com/sayan-adhikary/leetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sayan-adhikary/leetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sayan-adhikary/leetCode/tree/master/0287-find-the-duplicate-number) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/sayan-adhikary/leetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Prefix Sum
 |  |
 | ------- |
