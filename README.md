@@ -12,6 +12,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0014-longest-common-prefix](https://github.com/sayan-adhikary/leetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/sayan-adhikary/leetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sayan-adhikary/leetCode/tree/master/0016-3sum-closest) |
+| [0027-remove-element](https://github.com/sayan-adhikary/leetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/sayan-adhikary/leetCode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/sayan-adhikary/leetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/sayan-adhikary/leetCode/tree/master/0066-plus-one) |
@@ -296,6 +297,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0011-container-with-most-water](https://github.com/sayan-adhikary/leetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sayan-adhikary/leetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sayan-adhikary/leetCode/tree/master/0016-3sum-closest) |
+| [0027-remove-element](https://github.com/sayan-adhikary/leetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/sayan-adhikary/leetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/sayan-adhikary/leetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sayan-adhikary/leetCode/tree/master/0088-merge-sorted-array) |
