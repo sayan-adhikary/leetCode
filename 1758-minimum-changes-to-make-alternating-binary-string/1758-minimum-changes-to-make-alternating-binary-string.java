@@ -1,12 +1,17 @@
 class Solution {
     public int minOperations(String s) {
+
         int count = 0;
+        int n = s.length();
 
-        for(int i = 0; i < s.length(); i++){
-           char ch = s.charAt(i);
+        for(int i = 0; i < n; i++) {
+            int num = s.charAt(i) - '0';
 
-           if(ch != (i % 2 == 0 ? '1' : '0')) count++;
+            if(num != i % 2) {
+                count++;
+            }
         }
-        return Math.min(count, s.length() - count);
+
+        return Math.min(count, n - count);
     }
 }
