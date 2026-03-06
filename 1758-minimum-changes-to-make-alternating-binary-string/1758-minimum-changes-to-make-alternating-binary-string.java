@@ -3,11 +3,10 @@ class Solution {
         int count1 = 0, count2 = 0;
 
         for(int i = 0; i < s.length(); i++){
-            char str1 = (i % 2 == 0) ? '0' : '1';
-            char str2 = (i % 2 == 0) ? '1' : '0';
+           char ch = s.charAt(i);
 
-            if(s.charAt(i) != str1) count1++;
-            if(s.charAt(i) != str2) count2++;
+           if(ch != (i % 2 == 0 ? '1' : '0')) count1++;
+           if(ch != (i % 2 == 0 ? '0' : '1')) count2++;
         }
         return Math.min(count1, count2);
     }
