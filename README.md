@@ -144,6 +144,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sayan-adhikary/leetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sayan-adhikary/leetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sayan-adhikary/leetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sayan-adhikary/leetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2562-count-ways-to-build-good-strings](https://github.com/sayan-adhikary/leetCode/tree/master/2562-count-ways-to-build-good-strings) |
 ## Greedy
 |  |
@@ -186,6 +187,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/sayan-adhikary/leetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1796-second-largest-digit-in-a-string](https://github.com/sayan-adhikary/leetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sayan-adhikary/leetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sayan-adhikary/leetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sayan-adhikary/leetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sayan-adhikary/leetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sayan-adhikary/leetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -289,6 +291,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0003-longest-substring-without-repeating-characters](https://github.com/sayan-adhikary/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/sayan-adhikary/leetCode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/sayan-adhikary/leetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sayan-adhikary/leetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sayan-adhikary/leetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Binary Search
 |  |
