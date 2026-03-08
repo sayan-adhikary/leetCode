@@ -53,6 +53,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sayan-adhikary/leetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sayan-adhikary/leetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/sayan-adhikary/leetCode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1980-find-unique-binary-string](https://github.com/sayan-adhikary/leetCode/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sayan-adhikary/leetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2107-find-unique-binary-string](https://github.com/sayan-adhikary/leetCode/tree/master/2107-find-unique-binary-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/sayan-adhikary/leetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -100,6 +101,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [1796-second-largest-digit-in-a-string](https://github.com/sayan-adhikary/leetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sayan-adhikary/leetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sayan-adhikary/leetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1980-find-unique-binary-string](https://github.com/sayan-adhikary/leetCode/tree/master/1980-find-unique-binary-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sayan-adhikary/leetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/sayan-adhikary/leetCode/tree/master/2107-find-unique-binary-string) |
 | [2434-design-a-number-container-system](https://github.com/sayan-adhikary/leetCode/tree/master/2434-design-a-number-container-system) |
@@ -190,6 +192,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sayan-adhikary/leetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sayan-adhikary/leetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sayan-adhikary/leetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1980-find-unique-binary-string](https://github.com/sayan-adhikary/leetCode/tree/master/1980-find-unique-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sayan-adhikary/leetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sayan-adhikary/leetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/sayan-adhikary/leetCode/tree/master/2107-find-unique-binary-string) |
@@ -273,6 +276,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [1160-letter-tile-possibilities](https://github.com/sayan-adhikary/leetCode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sayan-adhikary/leetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/sayan-adhikary/leetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1980-find-unique-binary-string](https://github.com/sayan-adhikary/leetCode/tree/master/1980-find-unique-binary-string) |
 | [2107-find-unique-binary-string](https://github.com/sayan-adhikary/leetCode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/sayan-adhikary/leetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/sayan-adhikary/leetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
