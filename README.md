@@ -148,6 +148,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sayan-adhikary/leetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sayan-adhikary/leetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2562-count-ways-to-build-good-strings](https://github.com/sayan-adhikary/leetCode/tree/master/2562-count-ways-to-build-good-strings) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/sayan-adhikary/leetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Greedy
 |  |
 | ------- |
@@ -341,6 +342,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [2358-number-of-ways-to-split-array](https://github.com/sayan-adhikary/leetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/sayan-adhikary/leetCode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/sayan-adhikary/leetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/sayan-adhikary/leetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Bit Manipulation
 |  |
 | ------- |
