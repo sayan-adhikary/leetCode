@@ -185,6 +185,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sayan-adhikary/leetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/sayan-adhikary/leetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sayan-adhikary/leetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/sayan-adhikary/leetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sayan-adhikary/leetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/sayan-adhikary/leetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/sayan-adhikary/leetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -290,6 +291,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | ------- |
 | [0002-add-two-numbers](https://github.com/sayan-adhikary/leetCode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/sayan-adhikary/leetCode/tree/master/0010-regular-expression-matching) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/sayan-adhikary/leetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -460,6 +462,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sayan-adhikary/leetCode/tree/master/0258-add-digits) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/sayan-adhikary/leetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sayan-adhikary/leetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2974-minimum-number-game](https://github.com/sayan-adhikary/leetCode/tree/master/2974-minimum-number-game) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/sayan-adhikary/leetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
