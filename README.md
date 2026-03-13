@@ -30,6 +30,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0268-missing-number](https://github.com/sayan-adhikary/leetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sayan-adhikary/leetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sayan-adhikary/leetCode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sayan-adhikary/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0407-trapping-rain-water-ii](https://github.com/sayan-adhikary/leetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/sayan-adhikary/leetCode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/sayan-adhikary/leetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -92,6 +93,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0217-contains-duplicate](https://github.com/sayan-adhikary/leetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sayan-adhikary/leetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sayan-adhikary/leetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sayan-adhikary/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/sayan-adhikary/leetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sayan-adhikary/leetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sayan-adhikary/leetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -313,6 +315,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0209-minimum-size-subarray-sum](https://github.com/sayan-adhikary/leetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/sayan-adhikary/leetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sayan-adhikary/leetCode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sayan-adhikary/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/sayan-adhikary/leetCode/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
@@ -336,6 +339,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0189-rotate-array](https://github.com/sayan-adhikary/leetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sayan-adhikary/leetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sayan-adhikary/leetCode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sayan-adhikary/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/sayan-adhikary/leetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Prefix Sum
 |  |
@@ -414,6 +418,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0217-contains-duplicate](https://github.com/sayan-adhikary/leetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sayan-adhikary/leetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sayan-adhikary/leetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sayan-adhikary/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1200-minimum-absolute-difference](https://github.com/sayan-adhikary/leetCode/tree/master/1200-minimum-absolute-difference) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sayan-adhikary/leetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sayan-adhikary/leetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
