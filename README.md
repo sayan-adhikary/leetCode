@@ -32,6 +32,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0287-find-the-duplicate-number](https://github.com/sayan-adhikary/leetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sayan-adhikary/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0407-trapping-rain-water-ii](https://github.com/sayan-adhikary/leetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0485-max-consecutive-ones](https://github.com/sayan-adhikary/leetCode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/sayan-adhikary/leetCode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/sayan-adhikary/leetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0704-binary-search](https://github.com/sayan-adhikary/leetCode/tree/master/0704-binary-search) |
