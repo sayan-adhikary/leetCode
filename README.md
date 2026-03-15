@@ -142,6 +142,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0055-jump-game](https://github.com/sayan-adhikary/leetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/sayan-adhikary/leetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sayan-adhikary/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/sayan-adhikary/leetCode/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/sayan-adhikary/leetCode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/sayan-adhikary/leetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sayan-adhikary/leetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -184,6 +185,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0076-minimum-window-substring](https://github.com/sayan-adhikary/leetCode/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/sayan-adhikary/leetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/sayan-adhikary/leetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/sayan-adhikary/leetCode/tree/master/0392-is-subsequence) |
 | [0952-word-subsets](https://github.com/sayan-adhikary/leetCode/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/sayan-adhikary/leetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/sayan-adhikary/leetCode/tree/master/1160-letter-tile-possibilities) |
@@ -341,6 +343,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0283-move-zeroes](https://github.com/sayan-adhikary/leetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sayan-adhikary/leetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sayan-adhikary/leetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/sayan-adhikary/leetCode/tree/master/0392-is-subsequence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/sayan-adhikary/leetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Prefix Sum
 |  |
