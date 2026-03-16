@@ -21,6 +21,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0075-sort-colors](https://github.com/sayan-adhikary/leetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sayan-adhikary/leetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sayan-adhikary/leetCode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/sayan-adhikary/leetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sayan-adhikary/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sayan-adhikary/leetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sayan-adhikary/leetCode/tree/master/0169-majority-element) |
@@ -141,6 +142,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0042-trapping-rain-water](https://github.com/sayan-adhikary/leetCode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/sayan-adhikary/leetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/sayan-adhikary/leetCode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/sayan-adhikary/leetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sayan-adhikary/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/sayan-adhikary/leetCode/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/sayan-adhikary/leetCode/tree/master/0494-target-sum) |
