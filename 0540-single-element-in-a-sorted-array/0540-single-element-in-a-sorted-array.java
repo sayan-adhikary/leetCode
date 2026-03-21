@@ -7,7 +7,7 @@ class Solution {
             int mid = (start + end) / 2;
 
             // Ensure mid is even
-            if (mid % 2 == 1) {
+                if (mid % 2 == 1) {
                 mid--;
             }
 
