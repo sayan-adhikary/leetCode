@@ -18,6 +18,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0042-trapping-rain-water](https://github.com/sayan-adhikary/leetCode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/sayan-adhikary/leetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/sayan-adhikary/leetCode/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/sayan-adhikary/leetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sayan-adhikary/leetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sayan-adhikary/leetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sayan-adhikary/leetCode/tree/master/0088-merge-sorted-array) |
@@ -321,6 +322,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sayan-adhikary/leetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/sayan-adhikary/leetCode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/sayan-adhikary/leetCode/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/sayan-adhikary/leetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/sayan-adhikary/leetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sayan-adhikary/leetCode/tree/master/0287-find-the-duplicate-number) |
@@ -456,6 +458,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/sayan-adhikary/leetCode/tree/master/0074-search-a-2d-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/sayan-adhikary/leetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/sayan-adhikary/leetCode/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/sayan-adhikary/leetCode/tree/master/1396-count-servers-that-communicate) |
