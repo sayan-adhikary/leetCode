@@ -49,6 +49,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [1200-minimum-absolute-difference](https://github.com/sayan-adhikary/leetCode/tree/master/1200-minimum-absolute-difference) |
 | [1364-tuple-with-same-product](https://github.com/sayan-adhikary/leetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/sayan-adhikary/leetCode/tree/master/1396-count-servers-that-communicate) |
+| [1470-shuffle-the-array](https://github.com/sayan-adhikary/leetCode/tree/master/1470-shuffle-the-array) |
 | [1477-product-of-the-last-k-numbers](https://github.com/sayan-adhikary/leetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sayan-adhikary/leetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/sayan-adhikary/leetCode/tree/master/1524-string-matching-in-an-array) |
