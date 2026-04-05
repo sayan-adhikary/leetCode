@@ -14,7 +14,6 @@ var isValid = function (s) {
                 ch += s[i];
                 // ch = {}
                 st.pop();
-                console.log(ch);
                 if (ch == "()" || ch == "{}" || ch == "[]") {
                     continue;
                 } else {
