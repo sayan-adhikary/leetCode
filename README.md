@@ -87,6 +87,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sayan-adhikary/leetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/sayan-adhikary/leetCode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/sayan-adhikary/leetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3457-eat-pizzas](https://github.com/sayan-adhikary/leetCode/tree/master/3457-eat-pizzas) |
 | [3814-maximum-capacity-within-budget](https://github.com/sayan-adhikary/leetCode/tree/master/3814-maximum-capacity-within-budget) |
 ## Hash Table
 |  |
@@ -175,6 +176,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/sayan-adhikary/leetCode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/sayan-adhikary/leetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/sayan-adhikary/leetCode/tree/master/2509-minimize-xor) |
+| [3457-eat-pizzas](https://github.com/sayan-adhikary/leetCode/tree/master/3457-eat-pizzas) |
 ## Memoization
 |  |
 | ------- |
@@ -444,6 +446,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sayan-adhikary/leetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2974-minimum-number-game](https://github.com/sayan-adhikary/leetCode/tree/master/2974-minimum-number-game) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sayan-adhikary/leetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3457-eat-pizzas](https://github.com/sayan-adhikary/leetCode/tree/master/3457-eat-pizzas) |
 | [3814-maximum-capacity-within-budget](https://github.com/sayan-adhikary/leetCode/tree/master/3814-maximum-capacity-within-budget) |
 ## Brainteaser
 |  |
