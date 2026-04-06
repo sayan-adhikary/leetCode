@@ -86,6 +86,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/sayan-adhikary/leetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sayan-adhikary/leetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/sayan-adhikary/leetCode/tree/master/3429-special-array-i) |
+| [3429-paint-house-iv](https://github.com/sayan-adhikary/leetCode/tree/master/3429-paint-house-iv) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/sayan-adhikary/leetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3457-eat-pizzas](https://github.com/sayan-adhikary/leetCode/tree/master/3457-eat-pizzas) |
 | [3814-maximum-capacity-within-budget](https://github.com/sayan-adhikary/leetCode/tree/master/3814-maximum-capacity-within-budget) |
@@ -165,6 +166,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [2562-count-ways-to-build-good-strings](https://github.com/sayan-adhikary/leetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/sayan-adhikary/leetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/sayan-adhikary/leetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3429-paint-house-iv](https://github.com/sayan-adhikary/leetCode/tree/master/3429-paint-house-iv) |
 ## Greedy
 |  |
 | ------- |
