@@ -87,6 +87,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sayan-adhikary/leetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/sayan-adhikary/leetCode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/sayan-adhikary/leetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3814-maximum-capacity-within-budget](https://github.com/sayan-adhikary/leetCode/tree/master/3814-maximum-capacity-within-budget) |
 ## Hash Table
 |  |
 | ------- |
@@ -331,6 +332,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0349-intersection-of-two-arrays](https://github.com/sayan-adhikary/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sayan-adhikary/leetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/sayan-adhikary/leetCode/tree/master/0704-binary-search) |
+| [3814-maximum-capacity-within-budget](https://github.com/sayan-adhikary/leetCode/tree/master/3814-maximum-capacity-within-budget) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -357,6 +359,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0349-intersection-of-two-arrays](https://github.com/sayan-adhikary/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/sayan-adhikary/leetCode/tree/master/0392-is-subsequence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/sayan-adhikary/leetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [3814-maximum-capacity-within-budget](https://github.com/sayan-adhikary/leetCode/tree/master/3814-maximum-capacity-within-budget) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -441,6 +444,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sayan-adhikary/leetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2974-minimum-number-game](https://github.com/sayan-adhikary/leetCode/tree/master/2974-minimum-number-game) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sayan-adhikary/leetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3814-maximum-capacity-within-budget](https://github.com/sayan-adhikary/leetCode/tree/master/3814-maximum-capacity-within-budget) |
 ## Brainteaser
 |  |
 | ------- |
