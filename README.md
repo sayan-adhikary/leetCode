@@ -20,6 +20,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0066-plus-one](https://github.com/sayan-adhikary/leetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/sayan-adhikary/leetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sayan-adhikary/leetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/sayan-adhikary/leetCode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sayan-adhikary/leetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sayan-adhikary/leetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/sayan-adhikary/leetCode/tree/master/0118-pascals-triangle) |
@@ -299,6 +300,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sayan-adhikary/leetCode/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/sayan-adhikary/leetCode/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/sayan-adhikary/leetCode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sayan-adhikary/leetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -384,6 +386,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sayan-adhikary/leetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sayan-adhikary/leetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sayan-adhikary/leetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sayan-adhikary/leetCode/tree/master/0287-find-the-duplicate-number) |
