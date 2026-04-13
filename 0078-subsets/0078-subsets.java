@@ -12,7 +12,7 @@ class Solution {
             return;
         }
 
-        backtrack(index + 1, n, nums, temp, ans); //
+        backtrack(index + 1, n, nums, temp, ans);
         temp.add(nums[index]);
         backtrack(index + 1, n, nums, temp, ans);
         temp.remove(temp.size() - 1);
