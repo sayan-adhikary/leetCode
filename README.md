@@ -133,6 +133,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0009-palindrome-number](https://github.com/sayan-adhikary/leetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/sayan-adhikary/leetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sayan-adhikary/leetCode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/sayan-adhikary/leetCode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/sayan-adhikary/leetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/sayan-adhikary/leetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/sayan-adhikary/leetCode/tree/master/0070-climbing-stairs) |
@@ -197,6 +198,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0013-roman-to-integer](https://github.com/sayan-adhikary/leetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sayan-adhikary/leetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sayan-adhikary/leetCode/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/sayan-adhikary/leetCode/tree/master/0043-multiply-strings) |
 | [0076-minimum-window-substring](https://github.com/sayan-adhikary/leetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/sayan-adhikary/leetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sayan-adhikary/leetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -511,6 +513,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/sayan-adhikary/leetCode/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/sayan-adhikary/leetCode/tree/master/0258-add-digits) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sayan-adhikary/leetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sayan-adhikary/leetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
