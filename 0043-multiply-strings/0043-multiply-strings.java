@@ -24,8 +24,9 @@ class Solution {
         while (i < result.length && result[i] == 0)
             i++;
 
-        for (; i < result.length; i++) {
+        while (i < result.length) {
             sb.append(result[i]);
+            i++;
         }
 
         return sb.length() == 0 ? "0" : sb.toString();
