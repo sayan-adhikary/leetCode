@@ -22,6 +22,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0075-sort-colors](https://github.com/sayan-adhikary/leetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sayan-adhikary/leetCode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sayan-adhikary/leetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sayan-adhikary/leetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/sayan-adhikary/leetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/sayan-adhikary/leetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sayan-adhikary/leetCode/tree/master/0119-pascals-triangle-ii) |
@@ -438,6 +439,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | ------- |
 | [0020-valid-parentheses](https://github.com/sayan-adhikary/leetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sayan-adhikary/leetCode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sayan-adhikary/leetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sayan-adhikary/leetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/sayan-adhikary/leetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/sayan-adhikary/leetCode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -563,6 +565,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sayan-adhikary/leetCode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sayan-adhikary/leetCode/tree/master/0084-largest-rectangle-in-histogram) |
 ## Number Theory
 |  |
 | ------- |
