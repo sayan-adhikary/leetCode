@@ -61,6 +61,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sayan-adhikary/leetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/sayan-adhikary/leetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sayan-adhikary/leetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/sayan-adhikary/leetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1876-map-of-highest-peak](https://github.com/sayan-adhikary/leetCode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sayan-adhikary/leetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sayan-adhikary/leetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -347,6 +348,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0349-intersection-of-two-arrays](https://github.com/sayan-adhikary/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sayan-adhikary/leetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/sayan-adhikary/leetCode/tree/master/0704-binary-search) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/sayan-adhikary/leetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3814-maximum-capacity-within-budget](https://github.com/sayan-adhikary/leetCode/tree/master/3814-maximum-capacity-within-budget) |
 ## Divide and Conquer
 |  |
@@ -376,6 +378,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0344-reverse-string](https://github.com/sayan-adhikary/leetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sayan-adhikary/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/sayan-adhikary/leetCode/tree/master/0392-is-subsequence) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/sayan-adhikary/leetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/sayan-adhikary/leetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3814-maximum-capacity-within-budget](https://github.com/sayan-adhikary/leetCode/tree/master/3814-maximum-capacity-within-budget) |
 ## Prefix Sum
