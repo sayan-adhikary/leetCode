@@ -47,6 +47,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/sayan-adhikary/leetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0704-binary-search](https://github.com/sayan-adhikary/leetCode/tree/master/0704-binary-search) |
 | [0854-making-a-large-island](https://github.com/sayan-adhikary/leetCode/tree/master/0854-making-a-large-island) |
+| [0875-koko-eating-bananas](https://github.com/sayan-adhikary/leetCode/tree/master/0875-koko-eating-bananas) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sayan-adhikary/leetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sayan-adhikary/leetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/sayan-adhikary/leetCode/tree/master/0952-word-subsets) |
@@ -354,6 +355,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0349-intersection-of-two-arrays](https://github.com/sayan-adhikary/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sayan-adhikary/leetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/sayan-adhikary/leetCode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/sayan-adhikary/leetCode/tree/master/0875-koko-eating-bananas) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sayan-adhikary/leetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3814-maximum-capacity-within-budget](https://github.com/sayan-adhikary/leetCode/tree/master/3814-maximum-capacity-within-budget) |
 ## Divide and Conquer
