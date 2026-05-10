@@ -52,6 +52,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sayan-adhikary/leetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/sayan-adhikary/leetCode/tree/master/0952-word-subsets) |
 | [0977-squares-of-a-sorted-array](https://github.com/sayan-adhikary/leetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/sayan-adhikary/leetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1025-minimum-cost-for-tickets](https://github.com/sayan-adhikary/leetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/sayan-adhikary/leetCode/tree/master/1063-best-sightseeing-pair) |
 | [1200-minimum-absolute-difference](https://github.com/sayan-adhikary/leetCode/tree/master/1200-minimum-absolute-difference) |
@@ -358,6 +359,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0540-single-element-in-a-sorted-array](https://github.com/sayan-adhikary/leetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/sayan-adhikary/leetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/sayan-adhikary/leetCode/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/sayan-adhikary/leetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sayan-adhikary/leetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3814-maximum-capacity-within-budget](https://github.com/sayan-adhikary/leetCode/tree/master/3814-maximum-capacity-within-budget) |
 ## Divide and Conquer
