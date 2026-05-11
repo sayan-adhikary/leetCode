@@ -57,6 +57,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [1025-minimum-cost-for-tickets](https://github.com/sayan-adhikary/leetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/sayan-adhikary/leetCode/tree/master/1063-best-sightseeing-pair) |
 | [1200-minimum-absolute-difference](https://github.com/sayan-adhikary/leetCode/tree/master/1200-minimum-absolute-difference) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sayan-adhikary/leetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1364-tuple-with-same-product](https://github.com/sayan-adhikary/leetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/sayan-adhikary/leetCode/tree/master/1396-count-servers-that-communicate) |
 | [1470-shuffle-the-array](https://github.com/sayan-adhikary/leetCode/tree/master/1470-shuffle-the-array) |
@@ -363,6 +364,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0704-binary-search](https://github.com/sayan-adhikary/leetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/sayan-adhikary/leetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sayan-adhikary/leetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sayan-adhikary/leetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sayan-adhikary/leetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3814-maximum-capacity-within-budget](https://github.com/sayan-adhikary/leetCode/tree/master/3814-maximum-capacity-within-budget) |
 ## Divide and Conquer
