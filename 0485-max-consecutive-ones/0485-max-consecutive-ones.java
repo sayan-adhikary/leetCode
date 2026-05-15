@@ -9,7 +9,6 @@ class Solution {
                 maxCount = Math.max(maxCount, count);
                 count = 0;
             }
-            // maxCount = Math.max(maxCount, count);
         }
         return maxCount = Math.max(maxCount, count);
     }
