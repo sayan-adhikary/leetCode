@@ -70,6 +70,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [1477-product-of-the-last-k-numbers](https://github.com/sayan-adhikary/leetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sayan-adhikary/leetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/sayan-adhikary/leetCode/tree/master/1524-string-matching-in-an-array) |
+| [1539-kth-missing-positive-number](https://github.com/sayan-adhikary/leetCode/tree/master/1539-kth-missing-positive-number) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sayan-adhikary/leetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sayan-adhikary/leetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sayan-adhikary/leetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -378,6 +379,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0875-koko-eating-bananas](https://github.com/sayan-adhikary/leetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sayan-adhikary/leetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sayan-adhikary/leetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1539-kth-missing-positive-number](https://github.com/sayan-adhikary/leetCode/tree/master/1539-kth-missing-positive-number) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sayan-adhikary/leetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3814-maximum-capacity-within-budget](https://github.com/sayan-adhikary/leetCode/tree/master/3814-maximum-capacity-within-budget) |
 ## Divide and Conquer
