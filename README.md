@@ -22,6 +22,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0053-maximum-subarray](https://github.com/sayan-adhikary/leetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sayan-adhikary/leetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/sayan-adhikary/leetCode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/sayan-adhikary/leetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sayan-adhikary/leetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sayan-adhikary/leetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sayan-adhikary/leetCode/tree/master/0078-subsets) |
@@ -116,6 +117,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0003-longest-substring-without-repeating-characters](https://github.com/sayan-adhikary/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/sayan-adhikary/leetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sayan-adhikary/leetCode/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/sayan-adhikary/leetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/sayan-adhikary/leetCode/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/sayan-adhikary/leetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sayan-adhikary/leetCode/tree/master/0217-contains-duplicate) |
@@ -529,6 +531,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/sayan-adhikary/leetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sayan-adhikary/leetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sayan-adhikary/leetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/sayan-adhikary/leetCode/tree/master/0407-trapping-rain-water-ii) |
