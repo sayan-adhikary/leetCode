@@ -1,6 +1,13 @@
 class Solution {
-    private void reverse(int[] arr, int start, int end) {
-        while (start < end) {
+    //Approach :-
+    /*
+    1. find the pivot idx[just drop from right] break;
+    2. if idx = -1 {reverse entire array}
+    3. if != -1 [find just greater from right] break;
+    4. then reverse (idx + 1) to (n - 1);
+    */
+    private void reverse(int[] arr, int start, int end){
+        while(start < end){
             int temp = arr[start];
             arr[start] = arr[end];
             arr[end] = temp;
@@ -8,36 +15,35 @@ class Solution {
             end--;
         }
     }
-
     public void nextPermutation(int[] nums) {
-
-        if (nums == null || nums.length <= 1)
-            return;
-
         int n = nums.length;
-        int idx = -1;
-
-        for (int i = n - 2; i >= 0; i--) {
-            if (nums[i] < nums[i + 1]) {
-                idx = i;
+        int pivotIdx = -1;
+        // 1. find the pivot idx[just drop from right] break;
+        for(int i = n - 1; i > 0; i--){
+            if(nums[i] > nums[i - 1]){
+                pivotIdx = i - 1;
                 break;
             }
         }
+        System.out.println(pivotIdx);
 
-        if (idx == -1) {
+        // 2. if idx = -1 {reverse entire array}
+        if(pivotIdx == -1){
             reverse(nums, 0, n - 1);
             return;
         }
 
-        for (int i = n - 1; i > idx; i--) {
-            if (nums[i] > nums[idx]) {
-                int temp = nums[i];
-                nums[i] = nums[idx];
-                nums[idx] = temp;
+        // 3. if pivotIdx != -1 [find just greater from right] break;
+        for(int i = n - 1; i > pivotIdx; i--){
+            if(nums[pivotIdx] < nums[i]){
+                int temp = nums[pivotIdx];
+                nums[pivotIdx] = nums[i];
+                nums[i] = temp;
                 break;
             }
         }
 
-        reverse(nums, idx + 1, n - 1);
+        // 4. then reverse (idx + 1) to (n - 1);
+        reverse(nums, pivotIdx + 1, n - 1);
     }
 }
