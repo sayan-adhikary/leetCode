@@ -9,28 +9,34 @@
  * }
  */
 class Solution {
-    public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-        ListNode start = l1;
-        int sum = 0;
-        while(l1 != null || l2 != null){
-            if(l1 != null){ //if we have a value add it to sum
-                sum += l1.val;
-            } 
-            if(l2 != null){ //same as above
-                sum += l2.val;
+    public ListNode addTwoNumbers(ListNode head1, ListNode head2) {
+        ListNode dummy = new ListNode(-1);
+        ListNode curr = dummy;
+        ListNode temp1 = head1;
+        ListNode temp2 = head2;
+
+        int carry = 0;
+
+        while (temp1 != null || temp2 != null) {
+            int sum = carry;
+            if (temp1 != null) {
+                sum += temp1.val;
+                temp1 = temp1.next;
             }
-            l1.val = sum%10;
-            sum /= 10;
-            if(l1.next == null && ((l2 != null && l2.next != null) || sum != 0)){
-                //checks if we have a carryover or the other linked list has more values
-                l1.next = new ListNode(0);
+            if (temp2 != null) {
+                sum += temp2.val;
+                temp2 = temp2.next;
             }
-            if(l1 != null) 
-                l1 = l1.next;
-            if(l2 != null) // we have to check since one of them might be longer
-                l2 = l2.next;
+            ListNode newNode = new ListNode(sum % 10);
+            carry = sum / 10;
+            curr.next = newNode;
+            curr = curr.next;
         }
 
-        return start;
+        if (carry != 0) {
+            ListNode newNode = new ListNode(carry);
+            curr.next = newNode;
+        }
+        return dummy.next;
     }
 }
