@@ -347,6 +347,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sayan-adhikary/leetCode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/sayan-adhikary/leetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/sayan-adhikary/leetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sayan-adhikary/leetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sayan-adhikary/leetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -355,6 +356,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | ------- |
 | [0002-add-two-numbers](https://github.com/sayan-adhikary/leetCode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/sayan-adhikary/leetCode/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/sayan-adhikary/leetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/sayan-adhikary/leetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/sayan-adhikary/leetCode/tree/master/0206-reverse-linked-list) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sayan-adhikary/leetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
