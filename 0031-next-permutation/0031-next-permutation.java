@@ -1,11 +1,4 @@
 class Solution {
-    //Approach :-
-    /*
-    1. find the pivot idx[just drop from right] break;
-    2. if idx = -1 {reverse entire array}
-    3. if != -1 [find just greater from right] break;
-    4. then reverse (idx + 1) to (n - 1);
-    */
     private void reverse(int[] arr, int start, int end){
         while(start < end){
             int temp = arr[start];
