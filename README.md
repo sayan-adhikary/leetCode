@@ -277,6 +277,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sayan-adhikary/leetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sayan-adhikary/leetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sayan-adhikary/leetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sayan-adhikary/leetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -288,6 +289,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sayan-adhikary/leetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sayan-adhikary/leetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sayan-adhikary/leetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/sayan-adhikary/leetCode/tree/master/0684-redundant-connection) |
@@ -333,6 +335,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sayan-adhikary/leetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sayan-adhikary/leetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sayan-adhikary/leetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sayan-adhikary/leetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -518,6 +521,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0020-valid-parentheses](https://github.com/sayan-adhikary/leetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sayan-adhikary/leetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sayan-adhikary/leetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/sayan-adhikary/leetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sayan-adhikary/leetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/sayan-adhikary/leetCode/tree/master/0234-palindrome-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sayan-adhikary/leetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
