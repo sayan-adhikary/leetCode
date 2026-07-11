@@ -20,6 +20,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sayan-adhikary/leetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sayan-adhikary/leetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/sayan-adhikary/leetCode/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/sayan-adhikary/leetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sayan-adhikary/leetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sayan-adhikary/leetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/sayan-adhikary/leetCode/tree/master/0056-merge-intervals) |
@@ -121,6 +122,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0003-longest-substring-without-repeating-characters](https://github.com/sayan-adhikary/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/sayan-adhikary/leetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sayan-adhikary/leetCode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/sayan-adhikary/leetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/sayan-adhikary/leetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/sayan-adhikary/leetCode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/sayan-adhikary/leetCode/tree/master/0141-linked-list-cycle) |
@@ -234,6 +236,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0014-longest-common-prefix](https://github.com/sayan-adhikary/leetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sayan-adhikary/leetCode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/sayan-adhikary/leetCode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/sayan-adhikary/leetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/sayan-adhikary/leetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/sayan-adhikary/leetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sayan-adhikary/leetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -543,6 +546,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0015-3sum](https://github.com/sayan-adhikary/leetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sayan-adhikary/leetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sayan-adhikary/leetCode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/sayan-adhikary/leetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/sayan-adhikary/leetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sayan-adhikary/leetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sayan-adhikary/leetCode/tree/master/0088-merge-sorted-array) |
