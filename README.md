@@ -285,6 +285,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0144-binary-tree-preorder-traversal](https://github.com/sayan-adhikary/leetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sayan-adhikary/leetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sayan-adhikary/leetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/sayan-adhikary/leetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sayan-adhikary/leetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/sayan-adhikary/leetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sayan-adhikary/leetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -348,6 +349,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0144-binary-tree-preorder-traversal](https://github.com/sayan-adhikary/leetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sayan-adhikary/leetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sayan-adhikary/leetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/sayan-adhikary/leetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sayan-adhikary/leetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/sayan-adhikary/leetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sayan-adhikary/leetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -681,4 +683,8 @@ A Bunch of LeetCode questions to show up to the recruiter!
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sayan-adhikary/leetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/sayan-adhikary/leetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
