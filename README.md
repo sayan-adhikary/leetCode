@@ -23,6 +23,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0048-rotate-image](https://github.com/sayan-adhikary/leetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/sayan-adhikary/leetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sayan-adhikary/leetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/sayan-adhikary/leetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/sayan-adhikary/leetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/sayan-adhikary/leetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/sayan-adhikary/leetCode/tree/master/0066-plus-one) |
@@ -596,6 +597,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sayan-adhikary/leetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/sayan-adhikary/leetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sayan-adhikary/leetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sayan-adhikary/leetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sayan-adhikary/leetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -631,6 +633,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/sayan-adhikary/leetCode/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/sayan-adhikary/leetCode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/sayan-adhikary/leetCode/tree/master/0258-add-digits) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sayan-adhikary/leetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sayan-adhikary/leetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
