@@ -16,6 +16,8 @@ class Solution {
             }
             right--;
 
+
+            // Suppose there is only one row left.
             if (top <= bottom) {
                 for (int i = right; i >= left; i--) {
                     ans.add(matrix[bottom][i]);
@@ -23,6 +25,8 @@ class Solution {
                 bottom--;
             }
 
+
+            // Imagine there is only one column left.
             if (left <= right) {
                 for (int i = bottom; i >= top; i--) {
                     ans.add(matrix[i][left]);
