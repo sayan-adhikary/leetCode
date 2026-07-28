@@ -52,6 +52,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0268-missing-number](https://github.com/sayan-adhikary/leetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sayan-adhikary/leetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sayan-adhikary/leetCode/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/sayan-adhikary/leetCode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/sayan-adhikary/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0407-trapping-rain-water-ii](https://github.com/sayan-adhikary/leetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0455-assign-cookies](https://github.com/sayan-adhikary/leetCode/tree/master/0455-assign-cookies) |
@@ -478,6 +479,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sayan-adhikary/leetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/sayan-adhikary/leetCode/tree/master/0303-range-sum-query-immutable) |
 | [1477-product-of-the-last-k-numbers](https://github.com/sayan-adhikary/leetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sayan-adhikary/leetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sayan-adhikary/leetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -645,6 +647,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/sayan-adhikary/leetCode/tree/master/0303-range-sum-query-immutable) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sayan-adhikary/leetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/sayan-adhikary/leetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/sayan-adhikary/leetCode/tree/master/2434-design-a-number-container-system) |
