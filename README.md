@@ -61,6 +61,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0540-single-element-in-a-sorted-array](https://github.com/sayan-adhikary/leetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sayan-adhikary/leetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sayan-adhikary/leetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/sayan-adhikary/leetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/sayan-adhikary/leetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0704-binary-search](https://github.com/sayan-adhikary/leetCode/tree/master/0704-binary-search) |
 | [0854-making-a-large-island](https://github.com/sayan-adhikary/leetCode/tree/master/0854-making-a-large-island) |
@@ -403,6 +404,7 @@ A Bunch of LeetCode questions to show up to the recruiter!
 | [0003-longest-substring-without-repeating-characters](https://github.com/sayan-adhikary/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/sayan-adhikary/leetCode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/sayan-adhikary/leetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/sayan-adhikary/leetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sayan-adhikary/leetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sayan-adhikary/leetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Binary Search
