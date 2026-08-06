@@ -1,40 +1,45 @@
 class Solution {
     public List<List<Integer>> fourSum(int[] nums, int target) {
         List<List<Integer>> ans = new ArrayList<>();
+
+        Arrays.sort(nums);
         int n = nums.length;
 
-        // Set to store unique quadruplets
-        Set<List<Integer>> set = new HashSet<>();
+        for (int i = 0; i < n - 3; i++) {
+            if (i > 0 && nums[i] == nums[i - 1]) {
+                continue;
+            }
 
-        // Checking all possible quadruplets
-        for (int i = 0; i < n; i++) {
-            for (int j = i + 1; j < n; j++) {
-                // Set to store elements seen so far in the loop
-                Set<Long> hashset = new HashSet<>();
+            for (int j = i + 1; j < n - 2; j++) {
+                if (j > i + 1 && nums[j] == nums[j - 1]) {
+                    continue;
+                }
 
-                for (int k = j + 1; k < n; k++) {
-                    /* Calculate the fourth element
-                    needed to reach target*/
-                    long sum = (long) nums[i] + nums[j] + nums[k];
-                    long fourth = target - sum;
+                int k = j + 1;
+                int l = n - 1;
+                long sum = 0;
 
-                    /* Find if fourth element exists in 
-                    hashset (complements seen so far)*/
-                    if (hashset.contains(fourth)) {
-                        // Found a quadruplet that sums up to target
-                        List<Integer> temp = Arrays.asList(nums[i], nums[j], nums[k], (int) fourth);
-                        Collections.sort(temp);
-                        set.add(temp);
+                while (k < l) {
+                    sum =(long) nums[i] + nums[j] + nums[k] + nums[l];
+
+                    if (sum < target) {
+                        k++;
+                    } else if (sum > target) {
+                        l--;
+                    } else {
+                        List<Integer> temp = Arrays.asList(nums[i], nums[j], nums[k], nums[l]);
+                        ans.add(temp);
+                        k++;
+                        l--;
+
+                        while (k < l && nums[k] == nums[k - 1])
+                            k++;
+                        while (k < l && nums[l] == nums[l + 1])
+                            l--;
                     }
-
-                    // Insert the kth element into hashset for future checks
-                    hashset.add((long) nums[k]);
                 }
             }
         }
-
-        // Convert set to list (unique quadruplets)
-        ans.addAll(set);
         return ans;
     }
 }
