@@ -710,4 +710,8 @@ A Bunch of LeetCode questions to show up to the recruiter!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sayan-adhikary/leetCode/tree/master/0128-longest-consecutive-sequence) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/sayan-adhikary/leetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
