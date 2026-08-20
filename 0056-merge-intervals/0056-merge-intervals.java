@@ -3,20 +3,21 @@ class Solution {
         Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
 
         List<int[]> merged = new ArrayList<>();
-        int[] prev = intervals[0];
+        int n = intervals.length;
 
-        for (int i = 1; i < intervals.length; i++) {
-            int[] interval = intervals[i];
-            if (interval[0] <= prev[1]) {
-                prev[1] = Math.max(prev[1], interval[1]);
+        // Sort intervals by starting time
+        Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
+
+        List<int[]> ans = new ArrayList<>();
+
+        for (int i = 0; i < n; i++) {
+            if (ans.isEmpty() || intervals[i][0] > ans.get(ans.size() - 1)[1]) {
+                ans.add(intervals[i]);
             } else {
-                merged.add(prev);
-                prev = interval;
+                ans.get(ans.size() - 1)[1] = Math.max(ans.get(ans.size() - 1)[1], intervals[i][1]);
             }
         }
 
-        merged.add(prev);
-
-        return merged.toArray(new int[merged.size()][]);
+        return ans.toArray(new int[ans.size()][]);
     }
 }
