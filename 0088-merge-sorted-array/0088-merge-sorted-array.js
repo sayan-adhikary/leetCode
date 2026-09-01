@@ -6,16 +6,28 @@
  * @return {void} Do not return anything, modify nums1 in-place instead.
  */
 var merge = function (nums1, m, nums2, n) {
-    //three pointer create
-    let i = m - 1, j = n - 1, k = m + n - 1;
-    while (i >= 0 && j >= 0) {
-        if (nums1[i] > nums2[j]) {
-            nums1[k--] = nums1[i--];
+    let merged = new Array(m + n);
+    let left = 0;
+    let right = 0;
+    let index = 0;
+
+    while (left < m && right < n) {
+        if (nums1[left] <= nums2[right]) {
+            merged[index++] = nums1[left++];
         } else {
-            nums1[k--] = nums2[j--];
+            merged[index++] = nums2[right++];
         }
     }
-    while (j >= 0) {
-        nums1[k--] = nums2[j--];
+
+    while (left < m) {
+        merged[index++] = nums1[left++];
+    }
+
+    while (right < n) {
+        merged[index++] = nums2[right++];
+    }
+
+    for (let i = 0; i < m + n; i++) {
+        nums1[i] = merged[i];
     }
 };
