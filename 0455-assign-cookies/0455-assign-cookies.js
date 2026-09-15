@@ -21,6 +21,3 @@ var findContentChildren = function (g, s) {
     }
     return count;
 };
-
-// [10,9,8,7] => [7,8,9,10] g
-// [5,6,7,8] = > [5,6,7,8] s
